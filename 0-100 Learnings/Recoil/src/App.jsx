@@ -32,7 +32,7 @@ function Check(){
   
   return(
     <div>
-      {isEven?"It is even":null}
+      {isEven?"It is an even":null}
     </div>
   );
 }
